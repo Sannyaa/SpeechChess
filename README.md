@@ -42,3 +42,12 @@ All the moves you make will be represented on the GUI board *(opens in a separat
 * Sanya Gupta
 
 
+## Demo Video
+
+Please turn on the audio when viewing the video.
+
+https://github.com/Sannyaa/SpeechChess-master/assets/58509908/0140ff0d-8ae0-49cf-a44f-25fedb9c223c
+
+
+
+
